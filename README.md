@@ -17,5 +17,5 @@ ___
 
 _note: fname = first name | lname = last name | phno = phone number | cust = customer | dest = destination | pass = password | Win = window | reg no = registration number | reg = registration | gen = generate | ASC = Ascending_
 
-# UPDATE CHANEL LOG 
+# UPDATE CHANGELOG
 **v 0.1 :** Designing GUI & UI components following modern UX principles.
