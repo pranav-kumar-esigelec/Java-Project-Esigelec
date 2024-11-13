@@ -19,4 +19,5 @@ _note: fname = first name | lname = last name | phno = phone number | cust = cus
 
 # UPDATE CHANGELOG
 **v 0.2 :** Mockup GUI Advancements now includes Customer (2 Windows) and Driver Windows respectively.
+
 **v 0.1 :** Designing GUI & UI components following modern UX principles.
